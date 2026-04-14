@@ -1,4 +1,4 @@
-# 🚀 Infosec Tools ID - Kali Linux WSL2 + Win-KeX
+#  Infosec Tools ID - Kali Linux WSL2 + Win-KeX
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120"/>
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ Overview
+##  Overview
 
 Jalankan **Kali Linux dengan GUI langsung di Windows** tanpa VirtualBox atau VMware.
 
@@ -29,16 +29,16 @@ Jalankan **Kali Linux dengan GUI langsung di Windows** tanpa VirtualBox atau VMw
 
 ---
 
-## 🧠 Use Cases
+##  Use Cases
 
-- 🔍 OSINT Investigation  
-- 🛡️ Penetration Testing Lab  
-- 🌐 Web Security Testing  
-- 🎓 Belajar Linux & Cybersecurity  
+-  OSINT Investigation  
+-  Penetration Testing Lab  
+-  Web Security Testing  
+-  Belajar Linux & Cybersecurity  
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Install WSL
 
@@ -74,7 +74,7 @@ sudo apt install -y kali-win-kex
 
 ---
 
-## 🖥️ Run GUI
+##  Run GUI
 
 ### Window Mode (Recommended)
 ```bash
@@ -92,7 +92,7 @@ kex --esm --ip -s
 ```
 ---
 
-## ⚠️ Troubleshooting
+##  Troubleshooting
 
 ### Cek versi WSL
 ```powershell
@@ -101,7 +101,7 @@ wsl -l -v
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 Project ini hanya untuk:
 - Edukasi
